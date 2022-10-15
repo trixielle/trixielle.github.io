@@ -1,0 +1,76 @@
+body, html {
+    overflow-x: hidden;
+    height: 100%;
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.background {
+    background-image: url(images/background.png);
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav { 
+    font-weight: bold; 
+}
+
+img {
+    width: 325px;
+    height: 325px;
+    margin-top: 150px; 
+}
+
+.name {
+    font-weight: bold; 
+    font-size: 40px;
+    color: rgb(211, 221, 221);
+    margin-top: 25px;
+    letter-spacing: 0.1em;
+    text-shadow: -3px -3px 12px #313a49;
+}
+
+.description {
+    font-weight: lighter;
+    font-size: large;
+    color: rgb(228, 168, 203);
+    letter-spacing: 0.1em;
+    text-shadow: -3px -3px 12px #313a49;
+}
+
+.about {
+    font-family: Helvetica;
+    font-weight: bold; 
+    height: auto;
+    font-size: 25px;
+    color: rgb(211, 221, 221);
+    text-shadow: -3px -3px 12px #313a49;
+    
+}
+
+.contact {
+    font-family: Helvetica;
+    font-weight: bold; 
+    height: auto;
+    font-size: 25px;
+    color: rgb(211, 221, 221);
+    text-shadow: -3px -3px 12px #313a49;
+    
+}
+
+p {
+    font-weight: lighter;
+    font-size: large;
+    color: rgb(215, 226, 226);
+    text-shadow: -3px -3px 12px #313a49;
+    background-color: rgb(48, 46, 43);
+    line-height: 1.8;
+    margin: 0;
+}
+
+
+
+
